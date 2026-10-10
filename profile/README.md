@@ -53,6 +53,7 @@ a visualization. **Merged PRs get exclusive 169pi swag. 🎁**
 <!-- ────────────────────────────────────────────────────────────────── -->
 
 <!-- ENTRIES:START -->
+<img width="512" height="512" alt="image_a39818b6-b466-4da1-9b50-35f9ad0b3275" src="https://github.com/user-attachments/assets/a95ace46-29d1-4e45-b8bd-40b8d3e6cbd3" />
 
 ### @169pi — the first brick 🧱
 
